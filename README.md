@@ -72,4 +72,4 @@ Follow these instructions to get a local copy of the project up and running.
 -   `npm run preview`: Serves the production build locally to preview it.
 
 ## Demo
-![Demo](./images/Demo.png)
+![Demo](./image/Demo.png)
