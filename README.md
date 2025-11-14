@@ -70,3 +70,6 @@ Follow these instructions to get a local copy of the project up and running.
 -   `npm run build`: Builds the application for production.
 -   `npm run lint`: Lints the source files using ESLint.
 -   `npm run preview`: Serves the production build locally to preview it.
+
+## Demo
+![Demo](./images/Demo.png)
