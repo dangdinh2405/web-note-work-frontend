@@ -24,4 +24,4 @@ export const FilterType = {
     },
   ];
   
-  export const visibleTaskLimit = 4;
+  export const visibleTaskLimit = 6;

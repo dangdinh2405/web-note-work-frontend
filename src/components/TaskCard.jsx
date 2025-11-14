@@ -14,7 +14,7 @@ const TaskCard = ({ task, index, handleTaskChanged }) => {
   const deleteTask = async (taskId) => {
     try {
       await api.delete(`/tasks/${taskId}`);
-      toast.success("Nhiệm vụ đã xoá.");
+      toast.success("Task deleted.");
       handleTaskChanged();
     } catch (error) {
       console.error("An error occurred while deleting the task.", error);
